@@ -1,4 +1,4 @@
-\# Enterprise AI Knowledge Assistant
+# Enterprise AI Knowledge Assistant
 
 
 
@@ -6,39 +6,39 @@ An AI-powered enterprise knowledge assistant built using Streamlit, LangChain, H
 
 
 
-\## Features
+## Features
 
 
 
-\- PDF Upload
+- PDF Upload
 
-\- AI Chatbot
+- AI Chatbot
 
-\- Semantic Search
+- Semantic Search
 
-\- Vector Database
+- Vector Database
 
-\- Enterprise Document Querying
-
-
-
-\## Tech Stack
+- Enterprise Document Querying
 
 
 
-\- Python
-
-\- Streamlit
-
-\- LangChain
-
-\- HuggingFace Embeddings
-
-\- FAISS
+## Tech Stack
 
 
 
-\## Run Locally
+- Python
+
+- Streamlit
+
+- LangChain
+
+- HuggingFace Embeddings
+
+- FAISS
+
+
+
+## Run Locally
 
 
 
@@ -66,41 +66,41 @@ streamlit run app.py
 
 
 
-\## Project Workflow
+## Project Workflow
 
 
 
-1\. Upload PDF
+1. Upload PDF
 
-2\. Extract text
+2. Extract text
 
-3\. Split into chunks
+3. Split into chunks
 
-4\. Generate embeddings
+4. Generate embeddings
 
-5\. Store in FAISS
+5. Store in FAISS
 
-6\. Ask questions
+6. Ask questions
 
-7\. Retrieve relevant answers
-
-
-
-\## Future Improvements
+7. Retrieve relevant answers
 
 
 
-\- Multi-user support
-
-\- Authentication
-
-\- Cloud deployment
-
-\- Advanced RAG pipeline
+## Future Improvements
 
 
 
-\## Author
+- Multi-user support
+
+- Authentication
+
+- Cloud deployment
+
+- Advanced RAG pipeline
+
+
+
+## Author
 
 
 
